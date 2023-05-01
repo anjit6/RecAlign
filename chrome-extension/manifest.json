@@ -12,7 +12,7 @@
   },
   "content_scripts": [
       {
-        "matches": ["https://twitter.com/*", "https://www.twitter.com/*", "https://zhihu.com/*", "https://www.zhihu.com/*"],
+        "matches": ["https://twitter.com/*", "https://www.twitter.com/*", "https://zhihu.com/*", "https://www.zhihu.com/*", "https://linkedin.com/*", "https://www.linkedin.com/*"],
         "js": ["js/content_script.js"]
       }
   ],
